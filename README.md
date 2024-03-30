@@ -13,9 +13,3 @@ College management system is an integrated console based application that handle
 
 ## Getting Started with Development
 
-
-##### Clone Git respository:
-```
-git clone https://github.com/Prashant1099/College-Management-System.git
-```
-Great! now you can work on it :tada:
